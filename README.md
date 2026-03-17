@@ -4,6 +4,28 @@
 
 Stamp'd is the group travel app built for the hardest part of trip planning: getting everyone to agree. Destination voting, date coordination, deal breaker matching, and an AI travel concierge that builds the itinerary once the group decides.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/travel-score.png" width="200" />
+  <img src="screenshots/trip-dashboard.png" width="200" />
+  <img src="screenshots/plan-together.png" width="200" />
+</p>
+
+<p align="center">
+  <img src="screenshots/badges-leaderboard.png" width="200" />
+  <img src="screenshots/explore.png" width="200" />
+  <img src="screenshots/atlas-ai.png" width="200" />
+</p>
+
+## Travel Card
+
+Share your travel stats with a beautiful, shareable travel passport card.
+
+<p align="center">
+  <img src="screenshots/travel-card.png" width="350" />
+</p>
+
 ## The Problem
 
 Every group trip starts the same way. 200 WhatsApp messages. A shared Google Doc no one updates. An Excel spreadsheet for the budget that three people edit differently. Weeks of back and forth, and you still haven't agreed on a destination.
