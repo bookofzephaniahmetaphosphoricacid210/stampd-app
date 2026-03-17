@@ -18,6 +18,7 @@ Stamp'd is the group travel app built for the hardest part of trip planning: get
   <img src="screenshots/atlas-ai.png" width="200" />
 </p>
 
+## Travel ReelYour animated passport reel — share your travel journey as a video.https://github.com/user-attachments/assets/travel-reel[▶️ Watch the Travel Reel](screenshots/travel-reel.mp4)## Memory ReelRelive your trip memories — photos, locations, and moments stitched into a cinematic video.[▶️ Watch a Memory Reel — Italy and Greece](https://heythereadventureseeker.com/api/media?u=aHR0cHM6Ly9iYXNlNDQuYXBwL2FwaS9hcHBzLzY5OTI3OTIwOTcxMTI2ODQxMzY4NDdkYy9maWxlcy9wdWJsaWMvNjk5Mjc5MjA5NzExMjY4NDEzNjg0N2RjLzk3MmMxNDIyOF9JdGFseV9hbmRfR3JlZWNlX21lbW9yaWVzLm1wNA==)
 ## Travel Card
 
 Share your travel stats with a beautiful, shareable travel passport card.
