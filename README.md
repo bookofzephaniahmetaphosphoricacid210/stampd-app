@@ -81,7 +81,7 @@ Browse all guides at [adventure-seeker.com/trip-guides](https://adventure-seeker
 ## Platforms
 
 - **Web:** [heythereadventureseeker.com](https://heythereadventureseeker.com)
-- **iOS:** [App Store](https://apps.apple.com/app/id6760239126) (in review)
+- **iOS:** [App Store]([https://apple.co/47nE1M6)]
 - **Android:** Coming soon to Google Play
 
 ## Beta TestingHelp shape Stamp'd before launch! Join the beta on your platform:- **iOS:** [Join TestFlight Beta](https://testflight.apple.com/join/hnbnjEVy)- **Android:** [Join Google Play Beta](https://play.google.com/store/apps/details?id=com.stampd.app)Feedback? Email stampd.support@gmail.com
@@ -92,7 +92,7 @@ Free. No ads, no premium tier, no paywall. Every feature is free.
 ## Links
 
 - **Website:** [adventure-seeker.com](https://adventure-seeker.com)
-- **App:** [heythereadventureseeker.com](https://heythereadventureseeker.com)
+- **App:** [heythereadventureseeker.com]([https://heythereadventureseeker.com](https://apple.co/47nE1M6))
 - **Help/FAQ:** [heythereadventureseeker.com/help.html](https://heythereadventureseeker.com/help.html)
 - **Privacy:** [heythereadventureseeker.com/privacy.html](https://heythereadventureseeker.com/privacy.html)
 - **Terms:** [heythereadventureseeker.com/terms.html](https://heythereadventureseeker.com/terms.html)
